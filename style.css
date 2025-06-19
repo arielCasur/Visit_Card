@@ -65,10 +65,7 @@ a{
 }
 
 .front-contacts{
-    margin-top: 10px;
-    display: flex;
-    font-size: 1rem;
-    justify-content: space-between;
+    margin-top: 5px;
 }
 
 .card-back {
@@ -145,14 +142,6 @@ a{
 .person-info p {
     font-size: 15px;
     font-weight: 500;
-}
-
-.front-phone span {
-    font-size: 13px;
-}
-
-.front-mail span {
-    font-size: 13px;
 }
 
 /* Back side */
