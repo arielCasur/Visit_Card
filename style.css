@@ -15,6 +15,10 @@ body {
     padding: 2rem;
 }
 
+a{
+    text-decoration: none;
+}
+
 .main-title {
     font-size: 1.875rem;
     font-weight: bold;
@@ -144,11 +148,11 @@ body {
 }
 
 .front-phone span {
-    font-size: 13px;
+    font-size: 0.8rem;
 }
 
 .front-mail span {
-    font-size: 13px;
+    font-size: 0.8rem;
 }
 
 /* Back side */

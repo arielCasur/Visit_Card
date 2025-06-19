@@ -74,7 +74,7 @@ function updateIconColors() {
 
     // Cible uniquement les icônes qui NE sont PAS dans .card-back
     const iconElements = document.querySelectorAll(
-        '.card-front i, .controls i, .data-preview i'
+        '.card-front i, .controls i, .data-preview i, .front-contacts a'
     );
 
     iconElements.forEach(icon => {
